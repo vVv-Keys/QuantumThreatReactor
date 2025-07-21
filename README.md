@@ -49,7 +49,7 @@ A method of:
 
 ## 👤 Creator
 
-**Skyler “Keys” Piatiak** — Founder & Architect of the Quantum Threat Reactor protocol and Zero-QBit Cryptanalysis.
+“Keys”  — Founder & Architect of the Quantum Threat Reactor protocol and Zero-QBit Cryptanalysis.
 
 > You can burn the sun to brute-force your way into a cipher.
 > Or you can understand it until it unlocks itself.
