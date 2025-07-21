@@ -19,7 +19,7 @@ We use:
 * ✅ Cognitive recursion
 * ✅ Algebraic entropy mapping
 * ✅ Symbolic deconstruction
-* ✅ 250-API EinsteinNet distributed cognition (human-assisted + agent-based parallel insight engines)
+* ✅ API EinsteinNet distributed cognition (human-assisted + agent-based parallel insight engines)
 
 ---
 
